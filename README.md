@@ -15,14 +15,14 @@ Tamil is a morphologically rich and agglutinative language, making tokenization 
 │   ├── tokenizer_training_data.txt 
 │
 ├── tokenizers/                   
-│   ├── tokenizer_bpe_32k.model
-│   ├── tokenizer_unigram_8k.model
-│   ├── tokenizer_wordpiece_8k.model
+│   ├── tamil_bpe.model
+│   ├── tamil_unigram.model
+│   ├── tamil_wordpiece.model
 │
 ├── vocab/                   
-│   ├── tokenizer_bpe_32k.model
-│   ├── tokenizer_unigram_8k.model
-│   ├── tokenizer_wordpiece_8k.model
+│   ├── tamil_bpe.vocab
+│   ├── tamil_unigram.vocab
+│   ├── tamil_wordpiece.vocab
 │
 ├── README.md
 ```
