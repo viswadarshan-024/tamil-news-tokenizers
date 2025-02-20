@@ -1,6 +1,6 @@
 # Tamil Tokenization: Task-Specific vs. Pretrained Models
 
-##Overview
+## Overview
 This repository contains the models, and dataset used for the research paper **"Optimizing Tamil Tokenizers: The Limits of Pretrained Models."** The study focuses on training task-specific tokenizers for Tamil and comparing them against pretrained tokenizers like IndicBERT and mBERT. Soon the paper will get published.
 
 ## Project Description
